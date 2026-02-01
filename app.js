@@ -1,3 +1,7 @@
 function greet() {
-  return "Hi there!"
+  return exclaim("Hi there, user")
+}
+
+function exclaim(s) {
+  return `${s}!`
 }
