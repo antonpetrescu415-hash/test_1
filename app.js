@@ -1,3 +1,3 @@
 function greet() {
-  return "BROKEN"
+  return "Hi there!"
 }
